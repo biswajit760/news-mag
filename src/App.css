@@ -12,6 +12,4 @@
 .nav-link{
     cursor: pointer;
 }
-.nav-link:current{
-    background-color: rgb(223, 14, 14);
-}
+
